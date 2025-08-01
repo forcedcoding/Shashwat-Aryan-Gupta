@@ -1,36 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shashwat Aryan Gupta</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **ForcedCoding**
-
-- 🌱 I’m currently learning **NextJS, ShadCN UI, Chakra UI**
-
-- 👯 I’m looking to collaborate on **various projects**
-
-- 👨‍💻 All of my projects are available at [https://fortpolio-dun.vercel.app/](https://fortpolio-dun.vercel.app/)
-
-- 💬 Ask me about **React, NodeJs, MongoDB, Express**
-
-- 📫 How to reach me **shashwatar.9876@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GQ2p4cgyKj0fxlJwrkIMBm7Q6-Qk-CcF/view?usp=drive_link](https://drive.google.com/file/d/1GQ2p4cgyKj0fxlJwrkIMBm7Q6-Qk-CcF/view?usp=drive_link)
-
-- ⚡ Fun fact **I am a SuperFast Learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-a-gupta-719588257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-a-gupta-719588257/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shashwat_gupta8528/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shashwat_gupta8528/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/random_coding1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/random_coding1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/cat_and_code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/cat_and_code/" height="30" width="40" /></a>
+Hi there, I'm SHASHWAT 👋
+<p align="center">
+<img src="https://drive.google.com/file/d/1aqnVvhT2eyOuUi16iTY5IVGg9f48VxVe/view?usp=drive_link" alt="Header Image">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Coding passionate about building real-time systems and full-stack applications. Proficient in React, Node.js,
+MongoDB, Express, and NextJS. Solved 500+ DSA problems on LeetCode & HackerRank. Quick learner and collaborative
+developer.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forcedcoding&show_icons=true&theme=dark&locale=en&layout=compact" alt="forcedcoding" /></p>
+🚀 About Me
+🎓 I'm currently a Computer Science student at ABES ENGINEERING COLLEGE.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forcedcoding&" alt="forcedcoding" /></p>
+💻 I love writing clean, efficient, and scalable code.
 
+🌱 I’m currently learning about Generative AI and DevOps.
+
+👯 I’m looking to collaborate on open-source projects, especially those related to social good.
+
+🤔 I’m looking for help with advanced machine learning concepts.
+
+💬 Ask me about React, Node.js, Python, and anything related to web development.
+
+📫 How to reach me: shashwatar.9876@gmail.com
+
+⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+
+🛠️ My Tech Stack
+Here are a few technologies I've been working with recently:
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,py,django,flask,go,rust,docker,kubernetes,gcp,aws,tailwind,figma" />
+</a>
+</p>
+
+📊 My GitHub Stats
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Your GitHub Stats" />
+</a>
+<br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" />
+</a>
+</p>
+
+Featured Projects
+Here are some of the projects I'm most proud of. You can find more on my repositories page.
+
+Project Name
+
+Description
+
+Technologies Used
+
+Link
+
+🚀 Project One
+
+A full-featured e-commerce platform with a custom recommendation engine.
+
+React, Node.js, MongoDB
+
+Live Demo / Repo
+
+🌐 Project Two
+
+A real-time chat application using WebSockets and a modern UI.
+
+Vue.js, Express, Socket.io
+
+Live Demo / Repo
+
+🤖 Project Three
+
+A Discord bot that uses NLP to moderate and engage with communities.
+
+Python, spaCy, Discord.py
+
+Repo
+
+🤝 Let's Connect!
+I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out!
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+<a href="https://www.google.com/search?q=https://your-portfolio.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-6366F1%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox%26logoColor%3Dwhite" alt="Portfolio">
+</a>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26style%3Dflat-square%26color%3Dblueviolet" alt="Profile views" />
+</p>
